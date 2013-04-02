@@ -1,0 +1,9 @@
+1. 2702 Kadai3~5.sml contains 課題３ to 課題5
+2. 2702.sml contains 課題6
+3. 2702-1.sml contains 拡張課題1
+4. 2702-2.sml contains 拡張課題2
+5. 2702-3.sml contains 拡張課題3
+6. lib-modified.sml is the modified version of lib.sml which is needed for 2702-3.sml 
+7. 2702.pdf contains the report.
+
+
